@@ -1,0 +1,26 @@
+body{
+    font-family: 'Noto Serif', serif;
+    font-family: 'BenchNine', sans-serif;
+    color: #693800
+}
+h1 {
+    color: #b46b1b;
+    font-family: 'Noto Serif', serif;
+}
+h5 {
+    color: #b46b1b;
+    font-family: 'Noto Serif', serif; 
+}
+.cafe{
+    color: #b46b1b;
+}
+.altura {
+    height: 150px;
+}
+.bg-fondo{
+    background-color: #F3F9FA;
+}
+.navlink{
+    
+    font-family: 'Noto Serif', serif;
+}
