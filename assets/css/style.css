@@ -1,7 +1,9 @@
 body{
     font-family: 'Noto Serif', serif;
-    font-family: 'BenchNine', sans-serif;
-    color: #693800
+    font-family: 'Balsamiq Sans', cursive;
+    color: #693800;
+    
+    
 }
 h1 {
     color: #b46b1b;
@@ -23,4 +25,20 @@ h5 {
 .navlink{
     
     font-family: 'Noto Serif', serif;
+}
+.logo{
+    height: 100px;
+}
+.carousel-indicators {
+    top:220px;
+   
+}
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color:#b46b1b; 
+}
+.btn-cafe {
+    background-color:#b46b1b
 }
